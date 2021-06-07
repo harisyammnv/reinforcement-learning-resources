@@ -4,7 +4,7 @@
 1. [Awesome RL repo 1](https://github.com/aikorea/awesome-rl#online-demos)
 2. [RL Code](https://github.com/rlcode/reinforcement-learning)
 3. [Deep RL Resources](https://github.com/kengz/awesome-deep-rl)
-4. 
+4. [RL SOTA implementations](https://github.com/IntelLabs/coach)
 
 ### YouTube Video Links
 1. [SendTex Q-Learning Videos](https://pythonprogramming.net/q-learning-reinforcement-learning-python-tutorial/)
