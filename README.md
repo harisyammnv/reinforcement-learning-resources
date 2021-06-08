@@ -12,6 +12,10 @@
 
 ### Research Papers
 1. [Model Based RL for  PID Control](https://ei.is.tuebingen.mpg.de/research_projects/model-based-rl-for-pid-control)
+2. [Online Tuning of PID Controller with Fuzzy RL](https://www.mdpi.com/2079-9292/8/2/231/pdf-vor)
+3. [Optimizing PID with RPRL](http://ceur-ws.org/Vol-2771/AICS2020_paper_41.pdf)
+4. [Comparison of modern controls and RL](https://digitalcommons.calpoly.edu/cgi/viewcontent.cgi?article=3540&context=theses)
+5. 
 
 ### Blogs
 1. [RL Custom Environments by DataHubbs](https://www.datahubbs.com/category/reinforcement-learning/)
