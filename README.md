@@ -23,7 +23,7 @@
 3. [RL Taxonomy](https://ychai.uk/notes/2019/04/02/RL/SpinningUp/RL-taxonomy/)
 
 ### MOOCs/BootCamps
-1. [Sergey Levine's Reinforcement Learning Course](https://github.com/rlcode/reinforcement-learning)
+1. [Sergey Levine's Reinforcement Learning Course](http://rail.eecs.berkeley.edu/deeprlcourse/)
 
 
 ### Books
